@@ -1,21 +1,20 @@
 import React from 'react';
 import darkflix from '../../assets/img/darkflix.png';
-import './Menu.css';
+import { LogoImage, MenuWrapper, ButtonLink } from './style.js';
 import Button from '../Button';
 //import ButtonLink from './components/ButtonLink';
 
 function Menu(){
     return (
-        <nav className="Menu">
+        <MenuWrapper className="Menu">
             <a href="/">
-                <img class="darkflix" src={darkflix} alt="Darkflix logo"/>
+                <LogoImage class="darkflix" src={darkflix} alt="Darkflix logo"/>
             </a>
 
-            <Button as="a" className="ButtonLink" href="/">
+            <ButtonLink as="a" className="ButtonLink" href="/">
                 Novo vídeo
-            </Button>
-        </nav>
+            </ButtonLink>
+        </MenuWrapper>
     );
 }
-
 export default Menu;
