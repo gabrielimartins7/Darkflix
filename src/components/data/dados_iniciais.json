@@ -1,41 +1,41 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Heróis e quadrinhos",
+      "link": "https://www.youtube.com/watch?v=x9KsOtlTGK8&list=PLyRcl7Q37-DWnoU1RG1GW8hNIeQFm2riU&index=2&t=441s",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Mais conteúdo nerd",
+        "url": "/"
       },
       "videos": [
         {
-          "titulo": "HACKEANDO O MUNDO",
-          "url": "https://www.youtube.com/watch?v=3crSCPw7ofk&list=PLyRcl7Q37-DVa6NdvC4E4SFg8AzNquqvl&index=41&t=0s"
+          "titulo": "A biologia do Groot",
+          "url": "https://www.youtube.com/watch?v=LvSw0mD2CPI"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Coringa e o mito do herói",
+          "url": "https://www.youtube.com/watch?v=x9KsOtlTGK8&list=PLyRcl7Q37-DWnoU1RG1GW8hNIeQFm2riU&index=2&t=441s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Como matar o Wolverine",
+          "url": "https://www.youtube.com/watch?v=6J47x599ZFQ&list=PLyRcl7Q37-DWnoU1RG1GW8hNIeQFm2riU&index=7&t=0s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Como ganhar super-poderes",
+          "url": "https://www.youtube.com/watch?v=xWqedHeXRGg&list=PLyRcl7Q37-DWnoU1RG1GW8hNIeQFm2riU&index=8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Os poderes do Magneto",
+          "url": "https://www.youtube.com/watch?v=EExCImj4Ls8&list=PLyRcl7Q37-DWnoU1RG1GW8hNIeQFm2riU&index=10"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Como congelar o Capitão América?",
+          "url": "https://www.youtube.com/watch?v=reDI72wooAk&list=PLyRcl7Q37-DWnoU1RG1GW8hNIeQFm2riU&index=11"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "A Armadura do Homem de Ferro",
+          "url": "https://www.youtube.com/watch?v=jB3EFK_vAuo&list=PLyRcl7Q37-DWnoU1RG1GW8hNIeQFm2riU&index=14"
         },
         {
           "titulo": "Base para aprender os frameworks",
