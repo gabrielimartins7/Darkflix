@@ -10,13 +10,28 @@ const Button = styled.button `
     font-weight: bold;
     font-size: 16px;
     outline: none;
-    border-radius: 5px;
+    border-radius: 4px;
     text-decoration: none;
     display: inline-block;
     transition: opacity .3s;
+
     &:hover,
-    &:focus{
+    &:focus {
     opacity: .5;
+    }
+    
+    @media (max-width: 800px) {
+        background-color: var(--primary);
+        border-radius: 0;
+        border: 0;
+        bottom: 0;
+        color: var(--white);
+        left: 0;
+        right: 0;
+        position: fixed;
+        outline: 0;
+        text-align: center;
+    }
 }
 `;
 

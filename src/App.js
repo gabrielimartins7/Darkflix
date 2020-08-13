@@ -8,6 +8,12 @@ import footer from './components/Footer';
 
 const AppWrapper = styled.div `
   background: var(--grayDark);
+
+  padding-top: 94px;
+
+  @media (max-width: 800px) {
+    padding-top: 40px;
+  }
 `;
 
 function App() {
@@ -18,7 +24,7 @@ function App() {
         <BannerMain
           videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
           url={dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={"Heróis"}
+          videoDescription={"Vamos entender a fisiologia do Groot, se ele realmente fosse uma planta. Seria possível uma planta humanoide pensar, andar e falar?"}
         />
 
         <Carousel

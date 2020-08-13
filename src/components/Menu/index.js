@@ -1,6 +1,6 @@
 import React from 'react';
 import darkflix from '../../assets/img/darkflix.png';
-import { LogoImage, MenuWrapper, ButtonLink } from './style.js';
+import { LogoImage, MenuWrapper } from './style.js';
 import Button from '../Button';
 //import ButtonLink from './components/ButtonLink';
 
@@ -11,9 +11,9 @@ function Menu(){
                 <LogoImage class="darkflix" src={darkflix} alt="Darkflix logo"/>
             </a>
 
-            <ButtonLink as="a" className="ButtonLink" href="/">
+            <Button as="a" className="ButtonLink" href="/">
                 Novo vídeo
-            </ButtonLink>
+            </Button>
         </MenuWrapper>
     );
 }
