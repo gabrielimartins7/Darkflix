@@ -26,6 +26,7 @@ export const ExtraLink = styled.a`
   &:focus {
     opacity: .5;
   }
+  
   @media (max-width: 800px) {
     display: block;
     margin-bottom: 16px;

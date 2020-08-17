@@ -8,7 +8,7 @@ function Menu(){
     return (
         <MenuWrapper className="Menu">
             <a href="/">
-                <LogoImage class="darkflix" src={darkflix} alt="Darkflix logo"/>
+                <LogoImage className="darkflix" src={darkflix} alt="Darkflix logo"/>
             </a>
 
             <Button as="a" className="ButtonLink" href="/">
